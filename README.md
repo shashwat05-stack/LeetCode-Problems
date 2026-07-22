@@ -62,9 +62,11 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
