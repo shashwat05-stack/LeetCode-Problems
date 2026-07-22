@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
