@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0051-n-queens) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0410-split-array-largest-sum](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
