@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0520-detect-capital) |
 ## Bit Manipulation
 |  |
 | ------- |
