@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
