@@ -20,10 +20,10 @@ class Solution {
             return ans;
         }
 
-    void swap(int[] arr, int first, int second){
-        int temp = arr[first];
-        arr[first] = arr[second];
-        arr[second] = temp;
+    void swap(int[] nums, int first, int second){
+        int temp = nums[first];
+        nums[first] = nums[second];
+        nums[second] = temp;
     }
 }
     
