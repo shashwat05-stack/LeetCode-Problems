@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0645-set-mismatch) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0796-rotate-string) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
