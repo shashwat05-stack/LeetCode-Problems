@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0796-rotate-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
