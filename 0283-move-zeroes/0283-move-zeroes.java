@@ -7,7 +7,6 @@ class Solution {
                 swap(nums,i,j); 
                 j++;
             }
-            
         }
     }
     static void swap(int[] nums, int a, int b){
