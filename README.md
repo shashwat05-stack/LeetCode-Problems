@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
