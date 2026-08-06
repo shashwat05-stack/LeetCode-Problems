@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0912-sort-an-array) |
 ## Matrix
