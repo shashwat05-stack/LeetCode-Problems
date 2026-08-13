@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0217-contains-duplicate) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0231-power-of-two) |
