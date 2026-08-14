@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0832-flipping-an-image](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [0832-flipping-an-image](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
