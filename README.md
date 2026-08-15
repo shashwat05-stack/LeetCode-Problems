@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0912-sort-an-array) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -262,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0070-climbing-stairs](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
