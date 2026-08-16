@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
