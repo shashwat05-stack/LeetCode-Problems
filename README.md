@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0344-reverse-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0258-add-digits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
