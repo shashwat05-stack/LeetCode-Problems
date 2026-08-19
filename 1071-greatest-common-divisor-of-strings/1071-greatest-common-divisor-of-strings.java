@@ -7,9 +7,9 @@ class Solution {
         int b = str2.length();
 
         while(b != 0){
-            int remainder = a % b;
+            int temp = a % b;
             a = b;
-            b = remainder;
+            b = temp;
         }
         return str1.substring(0, a);
 }
