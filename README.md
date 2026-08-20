@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0704-binary-search) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0509-fibonacci-number) |
