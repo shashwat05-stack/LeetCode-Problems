@@ -11,6 +11,7 @@ class Solution {
             a = b;
             b = temp;
         }
+
         return str1.substring(0, a);
 }
 }
