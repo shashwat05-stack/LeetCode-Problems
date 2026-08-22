@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0912-sort-an-array) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0912-sort-an-array) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0645-set-mismatch) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Stack
 |  |
 | ------- |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -301,9 +306,11 @@ A collection of LeetCode questions to ace the coding interview!
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
