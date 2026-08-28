@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0055-jump-game) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0832-flipping-an-image](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 ## Math
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0202-happy-number) |
