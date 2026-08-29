@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1920-build-array-from-permutation](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0905-sort-array-by-parity](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -352,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
