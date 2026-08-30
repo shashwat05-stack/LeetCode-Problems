@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Simulation
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
