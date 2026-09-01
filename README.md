@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
@@ -372,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
