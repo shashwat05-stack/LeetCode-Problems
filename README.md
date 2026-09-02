@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0832-flipping-an-image](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Breadth-First Search
 |  |
