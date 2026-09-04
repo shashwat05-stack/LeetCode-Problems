@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [1021-remove-outermost-parentheses](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
@@ -395,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
