@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0832-flipping-an-image) |
+| [0835-image-overlap](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
