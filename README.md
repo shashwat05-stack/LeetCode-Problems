@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0507-perfect-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -429,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
