@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0876-middle-of-the-linked-list](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1071-greatest-common-divisor-of-strings](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1406-stone-game-iii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
