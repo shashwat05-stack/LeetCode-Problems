@@ -1,10 +1,9 @@
 class Solution {
     public int numberOfSets(int n, int k) {
-         int MOD = 1000000007;
+        int MOD = 1000000007;
 
         long[][] dp = new long[k + 1][n];
 
-        // 0 segments
         for (int i = 0; i < n; i++) {
             dp[0][i] = 1;
         }
