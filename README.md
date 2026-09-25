@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0155-min-stack) |
 | [1021-remove-outermost-parentheses](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
@@ -445,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
