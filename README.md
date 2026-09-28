@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0168-excel-sheet-column-title](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0263-ugly-number) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## Floyd's Cycle Finding Algorithm
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -452,4 +456,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0155-min-stack) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
