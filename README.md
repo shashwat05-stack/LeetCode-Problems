@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1406-stone-game-iii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0905-sort-array-by-parity](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1051-height-checker) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1051-height-checker](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1051-height-checker) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
@@ -468,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/0204-count-primes) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
