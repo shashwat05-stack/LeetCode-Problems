@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1688-count-of-matches-in-tournament](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2235-add-two-integers](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shashwat05-stack/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
